@@ -1,0 +1,22 @@
+{
+  "name": "yay-task",
+  "version": "1.0.0",
+  "description": "My own implementation for YAY coding assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mahmoud-rifaat/YAY-task.git"
+  },
+  "author": "Mahmoud Refaat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mahmoud-rifaat/YAY-task/issues"
+  },
+  "homepage": "https://github.com/Mahmoud-rifaat/YAY-task#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
